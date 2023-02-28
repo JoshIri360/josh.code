@@ -1,0 +1,22 @@
+{
+  "name": "my.resume",
+  "version": "1.0.0",
+  "description": "my portfolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "resume"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshIri360/my.resume.git"
+  },
+  "author": "Joshua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshIri360/my.resume/issues"
+  },
+  "homepage": "https://github.com/JoshIri360/my.resume#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
